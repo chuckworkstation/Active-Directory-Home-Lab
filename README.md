@@ -14,7 +14,7 @@ Configured a Windows Server VM as an AD DS domain controller in Azure, creatin
 
 **🧰 Tools & Technologies**  
 - Azure Portal & CLI  
-- Windows Server 2019  
+- Windows Server 2022  
 - AD DS, DNS roles  
 - VirtualBox/Windows 10 client
 
