@@ -7,9 +7,9 @@
 Configured a Windows Server VM as an AD DS domain controller in Azure, creating a self‑managed forest and DNS environment.
 
 **🚀 Objectives**  
-- Deploy AD DS and DNS on Azure VM  
-- Promote DC and configure DNS settings  
-- Create OUs and manage users  
+- Deploy AD DS(Active Directory Domain Services) and DNS(Domain name System)  on Azure VM  
+- Promote DC(Domain controller) and configure DNS settings  
+- Create OUs(Organizational units) and manage users  
 - Join client VM to domain
 
 **🧰 Tools & Technologies**  
@@ -34,9 +34,7 @@ Configured a Windows Server VM as an AD DS domain controller in Azure, creatin
 - Enabling secure remote authentication and resource access  
 - Supporting security operations with proper domain architecture
 
-**📂 Lab Artifacts**  
-- Screenshots: VM provisioning, DC promotion, DNS config, user creation  
-- PowerShell scripts: Resource deployment & user automation  
+ 
 
 
 **🎯 Impact Statement**  
